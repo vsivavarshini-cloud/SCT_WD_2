@@ -9,7 +9,7 @@ A functional calculator built to perform basic arithmetic operations with intera
 * Error handling
 * Keyboard support
 
-## Tech
+## TechStack
 
 HTML, CSS, JavaScript
 

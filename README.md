@@ -14,4 +14,4 @@ HTML, CSS, JavaScript
 
 ## Live Demo
 
-[Add your link here]
+https://vsivavarshini-cloud.github.io/SCT_WD_2/

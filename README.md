@@ -1,12 +1,13 @@
-# Stopwatch Web App
+# Calculator Web Application
 
-A basic stopwatch application to track time with user controls.
+A functional calculator built to perform basic arithmetic operations with interactive UI.
 
 ## Features
 
-* Start / Pause
-* Reset timer
-* Lap tracking
+* Addition, Subtraction, Multiplication, Division
+* Input parsing
+* Error handling
+* Keyboard support
 
 ## Tech
 
